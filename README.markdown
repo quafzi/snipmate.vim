@@ -1,5 +1,3 @@
-Quickly install with:
+Fork of https://github.com/msanders/snipmate.vim
 
-    git clone git://github.com/msanders/snipmate.vim.git
-	cd snipmate.vim
-	cp -R * ~/.vim
+Includes my very own snippets
