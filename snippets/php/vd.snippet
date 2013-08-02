@@ -1,1 +1,2 @@
-die(var_dump(__FILE__ . ' on line ' . __LINE__ . ':<pre>', ${1:var}, '</pre>'));${2}
+echo __FILE__ . ' on line ' . __LINE__ . ':<pre>';die(var_dump(${1:var}));
+${2}
